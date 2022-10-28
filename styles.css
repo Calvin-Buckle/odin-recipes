@@ -6,6 +6,11 @@
     .text {color: white; font-weight: bold; text-align: center; font-family:'Times New Roman', Times, serif;}
     .header {font-size: 50px;}
     .text-body {font-size: 30px;}
-    .button {background-color: rgb(135, 126, 212) ; font-weight: bold; height: 35px;}
+    .button {background-color: rgb(201, 201, 201) ; font-weight: bold; height: 35px;}
     .cookie {background-blend-mode:normal;}
     .link {color: black}
+    .hot-chocolate-body {color: rgb(0, 0, 0); font-weight: bold;}
+    .body2 {background-image:url(../odin-recipes/images/background.jpg!d);
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;   }
