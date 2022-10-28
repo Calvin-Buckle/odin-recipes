@@ -1,0 +1,11 @@
+.body {background-image:url(../odin-recipes/images/snow.jpg);
+     background-repeat:no-repeat;
+     background-attachment: fixed ;
+    background-size: cover;}
+
+    .text {color: white; font-weight: bold; text-align: center; font-family:'Times New Roman', Times, serif;}
+    .header {font-size: 50px;}
+    .text-body {font-size: 30px;}
+    .button {background-color: rgb(135, 126, 212) ; font-weight: bold; height: 35px;}
+    .cookie {background-blend-mode:normal;}
+    .link {color: black}
