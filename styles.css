@@ -9,8 +9,8 @@
     .button {background-color: rgb(201, 201, 201) ; font-weight: bold; height: 35px;}
     .cookie {background-blend-mode:normal;}
     .link {color: black}
-    .hot-chocolate-body {color: rgb(0, 0, 0); font-weight: bold;}
-    .body2 {background-image:url(../odin-recipes/images/background.jpg!d);
+    .hot-chocolate-body {color: rgb(0, 0, 0); font-weight:
+         bold;background-image:url(../odin-recipes/images/background.jpg!d);
     background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;   }
